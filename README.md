@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Backend Side Technologies
 
 🌱 I’m currently learning Backend developing, some devops skills
