@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am ibrokhim
-
+🔭 I’m currently working on Backend Side Technologies
+🌱 I’m currently learning Backend developing, some devops skills
+👯 I’m looking to collaborate on real world projects
+📫 How to reach me: ![t.me/acuere](Telegram) | ![linkedin.com/in/acuere](Linkedin) | ![ibrokhim7575@gmail.com](Email) 
+😄 Pronouns: he/him
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theacuere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/acuere) 
