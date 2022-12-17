@@ -25,6 +25,7 @@ username=acuere&theme=dracula&hide_border=false&include_all_commits=true&count_p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
  <!--  ### 😂 Random Dev Meme
   <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
