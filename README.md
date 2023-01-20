@@ -1,7 +1,7 @@
 <!-- #  About Me:
 🔭 I’m currently working on Backend Side Technologies
 
-🌱 I’m currently learning Backend developing, some devops skills
+🌱 I’m currently learning Backend developing, some devops skills --->
 
 # 📫 How to reach me: [Telegram](https://t.me/acuere) | [Linkedin](https://linkedin.com/in/acuere) | [Email](https://ibrokhim7575@gmail.com) 
 
