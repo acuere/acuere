@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Backend developing, some devops skills --->
 
-# 📫 How to reach me: [Telegram](https://t.me/acuere) | [Linkedin](https://linkedin.com/in/acuere) | https://ibrohimdev03@gmail.com 
+📫 How to reach me: [Telegram](https://t.me/acuere) | [Linkedin](https://linkedin.com/in/acuere) | https://ibrohimdev03@gmail.com 
 
 <!-- 😄 Pronouns: he/him -->
 
